@@ -18,7 +18,7 @@ void setYear(int y){
     year = y;
 }
 string getBrand(){
-    return brand;
+    return brand;  
 }
 string getModel(){
     return model;
